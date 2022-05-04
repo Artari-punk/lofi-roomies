@@ -1,17 +1,16 @@
 {
-  "name": "Name1.2",
+  "name": "Name1.3",
   "description": "lofitest",
-  "image": "https://storageapi.fleek.co/1f150de9-bdfd-4fe1-b1f0-06e26233fac2-bucket/hmda/apa.png",
-  "animation_url": "https://storageapi.fleek.co/a95af4ed-7ead-4be8-bdd4-bb29546d8235-bucket/vinyl/14-JINX%20CARD%20(1).gltf",
-  "background_color":"333333",
+  "image": "https://storageapi.fleek.co/1f150de9-bdfd-4fe1-b1f0-06e26233fac2-bucket/f_hero_106165.jpg",
+  "youtube_url": "https://youtu.be/tgI6PjEq0O8",
   "attributes": [
         {
           "trait_type": "Genre", 
-          "value": "Rock" 
+          "value": "Lofi" 
         }, 
         {
           "trait_type": "Artist", 
-          "value": "Box" 
+          "value": "Lil heart" 
         }
   ]
 }
