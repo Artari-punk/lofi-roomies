@@ -1,0 +1,16 @@
+{
+  "name": "Name1.3",
+  "description": "lofitest",
+  "image": "https://storageapi.fleek.co/1f150de9-bdfd-4fe1-b1f0-06e26233fac2-bucket/f_hero_106165.jpg",
+  "youtube_url": "https://youtu.be/tgI6PjEq0O8",
+  "attributes": [
+        {
+          "trait_type": "Genre", 
+          "value": "Lofi" 
+        }, 
+        {
+          "trait_type": "Artist", 
+          "value": "Lil heart" 
+        }
+  ]
+}
