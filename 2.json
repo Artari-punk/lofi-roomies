@@ -1,15 +1,15 @@
 {
-  "name": "land #1",
+  "name": "land #2",
   "description": "landtest",
-  "image": "https://cdn.writermag.com/2019/03/question-marks-1024x682.jpg",
+  "image": "https://en.pimg.jp/053/812/006/1/53812006.jpg",
   "attributes": [
         {
           "trait_type": "body", 
-          "value": "fat" 
+          "value": "tall" 
         }, 
         {
           "trait_type": "Artist", 
-          "value": "lambo" 
+          "value": "wenlambo" 
         }
   ]
 }
