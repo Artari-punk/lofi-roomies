@@ -2,7 +2,7 @@
     "name": "Dynamic MV Demo",
     "description": "Demo by Box",
     "image": "https://storageapi.fleek.co/a95af4ed-7ead-4be8-bdd4-bb29546d8235-bucket/demo/Screenshot%202022-11-14%20192414.jpg",
-    "animation_url": "https://storageapi.fleek.co/a95af4ed-7ead-4be8-bdd4-bb29546d8235-bucket/demo/index.html",
+    "animation_url": "https://storageapi.fleek.co/a95af4ed-7ead-4be8-bdd4-bb29546d8235-bucket/demo1/index.html",
     "background_color": "333333",
     "attributes": [{
             "trait_type": "Genre",
