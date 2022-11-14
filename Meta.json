@@ -1,8 +1,8 @@
 {
     "name": "Dynamic MV Demo",
     "description": "Demo by Box",
-    "image": "image link here",
-    "animation_url": "https://storageapi.fleek.co/a95af4ed-7ead-4be8-bdd4-bb29546d8235-bucket/vinyl/14-JINX%20CARD%20(1).gltf",
+    "image": "https://storageapi.fleek.co/a95af4ed-7ead-4be8-bdd4-bb29546d8235-bucket/demo/Screenshot%202022-11-14%20192414.jpg",
+    "animation_url": "https://storageapi.fleek.co/a95af4ed-7ead-4be8-bdd4-bb29546d8235-bucket/demo/index.html",
     "background_color": "333333",
     "attributes": [{
             "trait_type": "Genre",
